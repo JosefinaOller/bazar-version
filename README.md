@@ -1,4 +1,4 @@
-## Proyecto: TP Integrador Final 🛍️
+## Proyecto: TP Integrador Final - Spring Boot 🛍️
 
 ### Objetivo 🎯
 El objetivo de este proyecto es validar los conocimientos prácticos y técnicos referidos al desarrollo de APIs en Java mediante Spring Boot. Este proyecto forma parte del curso "Desarrollo de APIs en Java con Spring Boot" de la TodoCode Academy.
