@@ -98,6 +98,6 @@ La API permite realizar operaciones CRUD completas para productos, clientes y ve
 
 **Endpoint**: `GET /ventas/mayor_venta`
 
-Pruebas con Postman 📝
+#### Pruebas con Postman 📝
 Las pruebas de los endpoints se realizaron con Postman. Puedes importar la colección de Postman incluida en el repositorio para realizar pruebas de manera rápida y efectiva.
 
